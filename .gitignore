@@ -1,0 +1,5 @@
+venv/
+ __pycache__
+ __pycache__/surveys.cpython-37.pyc
+ __pycache__/app.cpython-37.pyc
+ .vscode/settings.json
